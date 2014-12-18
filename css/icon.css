@@ -1,0 +1,61 @@
+.ico_50{
+	width: 50px;
+	height: 50px;
+	float: left;
+}
+
+.ico_24{
+	width: 24px;
+	height: 24px;
+	float: left;
+}
+.ico_40{
+	width: 40px;
+	height: 40px; 
+	float: left;
+}
+.ico_34{
+	width: 34px;
+	height: 34px; 
+	float: left;
+}
+
+.ico_16{
+	width: 16px;
+	height: 16px; 
+	float: left;
+}
+.icoTopS{
+	position: absolute;
+	top: 11px;
+	right: 15px;
+}
+.bolder-r{
+	border:1px solid red!important;
+}
+	
+
+
+.icon-navTop{background: url('../img/icon/top_nav.png') 10px 10px no-repeat;}
+.icon-keyboard{background: url('../img/icon/keyboard.png') 53pc 10px no-repeat;}
+.icon-user_small{background: url('../img/icon/user_s.png') no-repeat;}
+.icon-point{background: url('../img/icon/point.png') no-repeat;}
+.icon-star{background: url('../img/icon/star.png') no-repeat;}
+.icon-photo{background: url('../img/icon/photo.png') no-repeat;}
+.icon-comment{background: url('../img/icon/comment.png') no-repeat;}
+.icon-notice{background: url('../img/icon/notice.png') no-repeat;}
+.icon-location{background: url('../img/icon/location.png') no-repeat;}
+.icon-compass{background: url('../img/icon/compass.png') no-repeat;}
+.icon-add_point{background: url('../img/icon/add_point.png') no-repeat;}
+
+.icon-sear_w{background: url('../img/icon/sear_w.png') no-repeat;}
+.icon-sear_f{background: url('../img/icon/sear_b.png') no-repeat;}
+
+
+.color_w{color:#fff!important}
+
+
+.bg_gold{background: #f0ad4e;}/*рыжий*/
+.bg_deng{background: #d9534f;}/*красный*/
+.bg_green{background: #5cb85c;}/*зелень*/
+.bg_blue{background: #565CFF;;}/*голубой*/

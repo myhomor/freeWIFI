@@ -1,0 +1,31 @@
+div.error{
+	border-left: 4px solid rgb(146, 6, 6);
+	padding: 11px 7px;
+	margin: 20px 0;
+	background: rgb(248, 151, 151);
+	color: rgb(131, 11, 11);
+	line-height: 17px;
+} 
+div.infom{
+	border-left: 4px solid rgb(16, 131, 207);
+	padding: 11px 7px;
+	margin: 20px 0;
+	background: rgb(180, 214, 245);
+	color: rgb(11, 28, 151);
+	line-height: 17px;
+}
+.center{text-align:center;}
+
+.step{
+	padding: 25px 15px;
+	color: #fff;
+	font-size: 1.3em;
+}
+
+
+
+/*#############*/
+.bg-while{background:#fff;}
+.bg-step_1{background: rgb(153, 57, 111);}
+.bg-step_2{background: rgb(107, 57, 153);}
+.bg-step_3{background: rgb(57, 153, 84);}

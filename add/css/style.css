@@ -1,0 +1,26 @@
+#map{
+	height: 100%;
+	background: aquamarine;
+}
+div.steps {
+	margin-bottom: 25px;
+	width: 100%;
+	color: #fff;
+	padding: 20px 10px;
+	font-size: 1.2em;
+}
+.wr-add-slider {
+	overflow: hidden;
+}
+div.slid-line{
+	width:1000pc;
+	position: relative;
+}
+div.slid div{
+	float:left;
+}
+div.slid{
+	width:100%;
+	position: relative;
+	float:left;
+}
